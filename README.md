@@ -4,6 +4,7 @@ Find an apartment next to an LA Fitness.
 
 ## Alaska
 
+Nope.
 
 ## New Jersey
 
