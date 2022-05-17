@@ -6,6 +6,10 @@ Find an apartment next to an LA Fitness.
 
 Nope.
 
+## Arizona
+
+Yep. Developing...
+
 ## New Jersey
 
 
